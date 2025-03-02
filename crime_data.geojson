@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "crime_type": "theft",
+        "date": "2023-10-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42, 37.77]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crime_type": "assault",
+        "date": "2023-10-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.43, 37.76]
+      }
+    }
+  ]
+}
